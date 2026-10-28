@@ -1,0 +1,4 @@
+# Public record only: ignore everything except these two files.
+*
+!README.md
+!.gitignore
